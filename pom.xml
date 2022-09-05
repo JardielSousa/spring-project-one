@@ -12,7 +12,7 @@
 	<artifactId>project-one</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project-one</name>
-	<description>Demo project for Spring Boot + Thymeleaf</description>
+	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
